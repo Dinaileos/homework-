@@ -1,0 +1,14 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+
+# macOS
+.DS_Store
+
+# Компиляция
+*.o
+*.out
+a.out
