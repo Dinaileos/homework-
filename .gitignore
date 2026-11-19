@@ -12,3 +12,19 @@ xcuserdata/
 *.o
 *.out
 a.out
+
+clang-format/
+
+# Системные папки CLion и сборки CMake
+.idea/
+cmake-build-*/
+
+# Скомпилированные бинарные файлы (без расширения) и объектные файлы
+task_02_fleet/fleet
+task_02_fleet/task_02_fleet
+*.o
+*.exe
+*.out
+
+# Личный CMakeLists.txt (если по условиям сдачи домашки его не нужно отправлять)
+task_02_fleet/CMakeLists.txt
