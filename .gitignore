@@ -13,7 +13,7 @@ xcuserdata/
 *.out
 a.out
 
-.clang-format/
+.clang-format
 
 # Системные папки CLion и сборки CMake
 .idea/
